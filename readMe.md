@@ -1,0 +1,1 @@
+This is somewhere to keep exercises from the JavaScript / DOM portion of The Odin Project.
